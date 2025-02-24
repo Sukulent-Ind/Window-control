@@ -1,5 +1,6 @@
 //#include <GyverDS18.h>
 //GyverDS18Single ds(7);
+//This library doesnt work
 
 #include <microDS18B20.h>
 MicroDS18B20 <7> ds;
